@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho com Marketing, porém estou a procura de uma oportunidade para Desenvolvedor.
 - 🎓 Cursando Ciência da Computação 7/8
-- 🌱 Estudando python atualmente.
+- 🌱 Estudando Python e React.js atualmente.
 
 <br/>
 <picture>
