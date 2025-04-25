@@ -1,9 +1,9 @@
 ### Olá! Sou Carlos Fortunato 👋
 
 
-- 🔭 Atualmente trabalho com Marketing, porém estou a procura de uma oportunidade para Desenvolvedor.
+- 🔭 Atualmente, sou estagiário de desenvolvimento de software full stack na empresa Embraer, onde tenho a oportunidade de aplicar e expandir meus conhecimentos em Ciência da Computação. Durante meu estágio, realizo análises de requisitos de software, auxilio na verificação de dados relacionais e não-relacionais, e contribuo para a automação de ferramentas, KPIs e otimização de planilhas, sites e sistemas de gestão. Além disso, presto suporte aos clientes internos, atuando como uma interface entre as áreas e a equipe..
 - 🎓 Cursando Ciência da Computação 7/8
-- 🌱 Estudando Python e React.js atualmente.
+- 🌱 Estudando IA Generativa e Javascript fullstack (ReactJs, NextJs, NodeJs, ExpressJs) atualmente.
 
 <br/>
 <picture>
