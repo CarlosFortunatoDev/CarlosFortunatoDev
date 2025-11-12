@@ -1,7 +1,7 @@
 ### Olá! Sou Carlos Fortunato 👋
 
 
-- 🔭 Sou um profissional em formação na área de tecnologia, com graduação em Ciência da Computação e atualmente cursando Inteligência Artificial e Machine Learning, o que me proporciona uma base sólida em desenvolvimento de software, automação e soluções orientadas a dados.
+Sou um profissional em formação na área de tecnologia, com graduação em Ciência da Computação e atualmente cursando Inteligência Artificial e Machine Learning, o que me proporciona uma base sólida em desenvolvimento de software, automação e soluções orientadas a dados.
 
 Atuo como Desenvolvedor Full Stack na Embraer, participando do desenvolvimento e manutenção de sistemas web corporativos, com foco em otimização de processos e melhoria contínua. Tenho experiência prática com Angular, jQuery, VB.NET e Oracle SQL, além de trabalhar em rotinas ETL com Pentaho, integrando dados do SAP para bases Oracle. Também participo de projetos internos de automação e painéis em Power BI, aplicando Python para análise e extração de dados.
 
