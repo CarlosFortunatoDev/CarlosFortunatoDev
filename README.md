@@ -2,10 +2,14 @@
 
 
 - 🔭 Sou um profissional em formação na área de tecnologia, com graduação em Ciência da Computação e atualmente cursando Inteligência Artificial e Machine Learning, o que me proporciona uma base sólida em desenvolvimento de software, automação e soluções orientadas a dados.
+
 Atuo como Desenvolvedor Full Stack na Embraer, participando do desenvolvimento e manutenção de sistemas web corporativos, com foco em otimização de processos e melhoria contínua. Tenho experiência prática com Angular, jQuery, VB.NET e Oracle SQL, além de trabalhar em rotinas ETL com Pentaho, integrando dados do SAP para bases Oracle. Também participo de projetos internos de automação e painéis em Power BI, aplicando Python para análise e extração de dados.
+
 Utilizo Git para versionamento de código e Scrum com Jira para gerenciamento ágil de tarefas, contribuindo em times multidisciplinares com foco em entregas consistentes e de qualidade.
+
 A formação complementar em Inteligência Artificial e Machine Learning aprofunda meus conhecimentos em análise de dados, bancos SQL e NoSQL, Big Data, redes neurais, NLP, visão computacional e machine learning supervisionado e não supervisionado, consolidando uma visão moderna e aplicada de como a IA pode potencializar soluções tecnológicas.
 Busco constantemente evoluir técnica e profissionalmente, unindo minha vivência prática no ambiente corporativo com uma base acadêmica atualizada e voltada à inovação, automação e inteligência de dados.
+
 - 🎓 Cursando Inteligência Artificial e Machine Learning 1/5
 - 🎓 Cursando Ciência da Computação 8/8
 - 🌱 Estudando IA Generativa, Javascript fullstack (ReactJs, NextJs, NodeJs, ExpressJs) e Python atualmente.
